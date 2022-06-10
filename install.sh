@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
+cd
 pkg update -y
 pkg upgrade -y
 pkg install git python -y
